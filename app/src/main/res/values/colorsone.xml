@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_color">#433443</color>
+    <color name="text_color">#433443</color>
+    <color name="button_color">#433443</color>
+    <color name="notification_text_color">#433443</color>
+</resources>
